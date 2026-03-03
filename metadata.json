@@ -1,0 +1,5 @@
+{
+  "name": "Beeper Typewriter",
+  "description": "A retro-themed typewriter application inspired by the Motorola Fix Beeper, featuring slow-typing cards and draggable messages.",
+  "requestFramePermissions": []
+}
